@@ -3,25 +3,21 @@
 
 This Privacy Policy explains how **Invisible Maze** (“we”, “our”, or “us”) handles your information.
 
-### 1. Information Collection and Use
-While we do not directly collect personal information (such as your name or email), our app includes the **Google Mobile Ads SDK (AdMob)**, which automatically collects certain information to serve and personalize advertisements. This data includes:
-* **Device Identifiers:** Your Android Advertising ID (AAID).
-* **Technical Data:** Your IP address, which may be used to estimate your general (approximate) location.
-* **App Activity:** Information about how you interact with ads in the app (e.g., taps or video views).
+### 1. Personal Data Collection
+**Invisible Maze** does not collect, store, or share any personal information such as your name, email address, physical address, or phone number. 
 
-### 2. Third-Party Services
-We use Google AdMob for monetization. You can review their privacy practices here:
+### 2. Technical Data and Permissions
+Our app does not require any sensitive permissions (such as access to your camera, contacts, or location) and does not use any third-party advertising or analytics SDKs.
+
+### 3. Data Retention and Deletion
+Any data related to your game progress (such as high scores or unlocked levels) is stored **locally on your device**. We do not have access to this data, and it is never transmitted to our servers. You can delete this data at any time by clearing the app's storage in your device settings or by uninstalling the app.
+
+### 4. Third-Party Services
+While our app itself does not collect data, it is distributed through the **Google Play Store**. Google may collect information as part of its own service. You can view their policy here:
 * [Google Privacy & Terms](https://policies.google.com/privacy)
 
-### 3. User Choice & Opt-Out
-You can opt-out of personalized advertising or reset your advertising identifier at any time through your device settings:
-* **Android Settings > Google > Ads > Reset/Delete Advertising ID**.
-
-### 4. Data Retention and Deletion
-Your game progress (levels, high scores) is stored locally on your device. This data is not transmitted to our servers. To delete this data, you can clear the app's cache/storage in your device settings or uninstall the app.
-
 ### 5. Children’s Privacy
-Invisible Maze is intended for a general audience. We do not knowingly collect personal information from children under 13.
+We do not knowingly collect any personal information from children. Our app is designed for a general audience and does not contain content intended to track or profile young users.
 
 ### 6. Contact Us
-If you have any questions about this policy, please contact us at: **shubhadatechie@gmail.com**.
+If you have any questions about this privacy policy, please contact us at: **shubhadatechie@gmail.com**.
